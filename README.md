@@ -1,2 +1,1 @@
-# yashportfolio.github.io
-Yash Portfolio
+# Portfolio Version 1.0 
